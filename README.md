@@ -1,6 +1,6 @@
-# flutter_learning_app
+# Flutter Learning App
 
-A new Flutter application.
+A new Flutter application that give you an idea to make interactive login page
 
 ## Getting Started
 
